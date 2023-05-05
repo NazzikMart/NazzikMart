@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello
 
-<!--
-**NazzikMart/NazzikMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Професійні та інші навички:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -   Навички роботи з комп’ютером
+  -  JavaScript - високий рівень
+  -  HTML - впевнений користувач
+  -  CSS - високий рівень
+  -   BOOTSTRAP - високий рівень
+  -  базові знання React Js та Node Js 
+  -  також володію базовими навичками роботи з           
+  - Figma , Photoshop 
+  - GIT , Wordpress - базові знання
+  - Адаптивна верстка сайтів
+  - Вмію на базовому рівні працювати з  хостингом
+  - PUG - базові знання
