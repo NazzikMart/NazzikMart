@@ -1,19 +1,19 @@
-# Привіт , мене звати Назар.
+# Hello, my name is Nazar.
 
-### Професійні та інші навички:
+### Professional and other skills:
 
-  * Навички роботи з комп’ютером
-  * JavaScript - високий рівень
-  * HTML - впевнений користувач
-  * CSS - високий рівень
-  * BOOTSTRAP - високий рівень
-  * Базові знання React Js та Node Js 
-  * Також володію базовими навичками роботи з           
-   Figma , Photoshop 
-  * GIT , Wordpress - базові знання
-  * Адаптивна верстка сайтів
-  * Вмію на базовому рівні працювати з  хостингом
-  * PUG - базові знання
+  * Computer skills
+  * JavaScript - high level
+  * HTML - confident user
+  * CSS - high level
+  * BOOTSTRAP - high level
+  * Basic knowledge of React Js and Node Js
+  * I also have basic skills of working with
+   Figma, Photoshop
+  * GIT, Wordpress - basic knowledge
+  * Adaptive site layout
+  * I can work with hosting at a basic level
+  * PUG - basic knowledge
 
 
-Інстаграм: (https://www.instagram.com/nazzikmart/)
+Instagram: (https://www.instagram.com/nazzikmart/)
